@@ -1,0 +1,25 @@
+div.col-12{
+    height: auto;
+    margin: auto;
+    padding: 3%;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+}
+button{
+    margin:0%  5%;
+    padding: 3%;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.container-fluid{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/03/92/90/6957e4930eb0bc3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
